@@ -1,0 +1,22 @@
+{
+  "name": "angular-lorem",
+  "main": "angular-lorem.js",
+  "authors": [
+    "McNull <noreplies@hotmail.com>"
+  ],
+  "description": "Simple lorem ipsum service for angular",
+  "keywords": [
+    "lorem",
+    "ipsum",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
